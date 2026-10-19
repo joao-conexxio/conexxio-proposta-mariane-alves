@@ -1,0 +1,231 @@
+{
+  "slug": "mariane-alves",
+  "negocio": {
+    "nome": "Dra. Mariane Alves",
+    "logo": "brand/logo.png",
+    "whatsapp": "5534998000066",
+    "unidades": [
+      {
+        "bairro": "Vitta Glow · Uberlândia/MG",
+        "telefone": "(34) 99800-0066 · WhatsApp",
+        "horario": "Atendimento com hora marcada"
+      }
+    ]
+  },
+  "marca": {
+    "brand": "#5F6A3A",
+    "brand2": "#2E3420",
+    "ink": "#24271B",
+    "bg": "#F6F3EA",
+    "pulse": "#D7A7A0",
+    "radius": "12px",
+    "registro": "editorial",
+    "fontDisplay": "Cormorant Garamond",
+    "fontBody": "Jost",
+    "tomHero": "escuro",
+    "tomCorpo": "claro"
+  },
+  "motivo": "camadas",
+  "secoes": [
+    {
+      "id": "header",
+      "variant": "sticky-cta",
+      "data": {
+        "links": [
+          {
+            "texto": "Tratamentos",
+            "href": "#tratamentos"
+          },
+          {
+            "texto": "Como funciona",
+            "href": "#como-funciona"
+          },
+          {
+            "texto": "Dúvidas",
+            "href": "#faq"
+          },
+          {
+            "texto": "Onde atende",
+            "href": "#unidades"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "variant": "split-motivo",
+      "data": {
+        "eyebrow": "Harmonização facial e glútea · Uberlândia",
+        "h1": "Do rosto ao glúteo, sem exagero",
+        "lead": "Harmonização facial, harmonização glútea e protocolos corporais com a Dra. Mariane Alves, farmacêutica esteta, na Vitta Glow. Cada plano parte do desenho que o seu corpo já tem, para realçar e não para transformar.",
+        "cta": "Agendar avaliação",
+        "ctaSecundario": "Ver tratamentos",
+        "ctaSecundarioHref": "#tratamentos",
+        "arte": "grao"
+      }
+    },
+    {
+      "id": "fita",
+      "data": {
+        "itens": [
+          "Harmonização facial",
+          "Harmonização glútea",
+          "Glow Butt Experience",
+          "Estética corporal",
+          "Protocolo de emagrecimento",
+          "Harmonização íntima",
+          "Projeto Verão"
+        ]
+      }
+    },
+    {
+      "id": "manifesto",
+      "variant": "faixa",
+      "data": {
+        "eyebrow": "O critério",
+        "citacao": "Ninguém precisa sair daqui parecendo outra pessoa.",
+        "autor": "Dra. Mariane Alves",
+        "texto": [
+          "Harmonização bem indicada trabalha com o que já está ali: o desenho da mandíbula, a altura das maçãs do rosto, a proporção entre cintura, quadril e glúteo. O plano realça esse desenho. Não apaga.",
+          "Por isso a avaliação vem antes de qualquer aplicação. É nela que se decide o que tratar, em que ordem e, tão importante quanto, o que deixar como está."
+        ]
+      }
+    },
+    {
+      "id": "tratamentos",
+      "variant": "pilha",
+      "data": {
+        "titulo": "Tratamentos",
+        "lead": "Rosto e corpo no mesmo lugar, com a mesma profissional do primeiro contato ao retorno.",
+        "itens": [
+          {
+            "nome": "Harmonização facial",
+            "descricao": "Contorno, volume e proporção do rosto ajustados em pequenas doses e no ponto certo. A combinação de técnicas é definida na avaliação, a partir dos seus traços, e o resultado continua parecendo com você."
+          },
+          {
+            "nome": "Harmonização glútea · Glow Butt Experience",
+            "descricao": "O protocolo de glúteo da Dra. Mariane, sem cirurgia: trabalha contorno, firmeza e projeção respeitando a proporção com quadril e cintura. Número de sessões e intervalo saem da avaliação."
+          },
+          {
+            "nome": "Estética corporal",
+            "descricao": "Protocolos para o corpo além do glúteo, montados para o que incomoda você. No segundo semestre, o Projeto Verão organiza esse calendário para o resultado estar assentado quando a estação chegar."
+          },
+          {
+            "nome": "Protocolo de emagrecimento",
+            "descricao": "Acompanhamento individual, com plano e metas revistos ao longo do caminho. Não existe protocolo pronto: o que funciona para uma paciente pode não servir para outra."
+          },
+          {
+            "nome": "Harmonização íntima",
+            "descricao": "Atendimento reservado, com espaço para tirar todas as dúvidas antes de decidir. A indicação, como nos outros tratamentos, só acontece depois da avaliação."
+          }
+        ]
+      }
+    },
+    {
+      "id": "passos",
+      "variant": "timeline",
+      "data": {
+        "titulo": "Como funciona",
+        "lead": "Do primeiro contato ao retorno, sabendo o que esperar de cada etapa.",
+        "itens": [
+          {
+            "titulo": "Conversa pelo WhatsApp",
+            "texto": "Você conta o que quer mudar e tira as primeiras dúvidas. A avaliação é marcada por ali mesmo."
+          },
+          {
+            "titulo": "Avaliação na Vitta Glow",
+            "texto": "Análise do rosto ou do corpo, conversa sobre expectativas e sobre o que não vale a pena mexer."
+          },
+          {
+            "titulo": "Plano por etapas",
+            "texto": "O que fazer, em que ordem e quanto tempo cada resultado leva para aparecer, dito antes de começar."
+          },
+          {
+            "titulo": "Retorno",
+            "texto": "Revisão depois que o resultado assenta, para conferir e ajustar o que for preciso."
+          }
+        ]
+      }
+    },
+    {
+      "id": "corpo-clinico",
+      "variant": "lista",
+      "data": {
+        "titulo": "Quem atende",
+        "itens": [
+          {
+            "nome": "Mariane Alves",
+            "registro": "CRF-MG 37479",
+            "especialidade": "Farmacêutica esteta · harmonização facial e glútea"
+          }
+        ]
+      }
+    },
+    {
+      "id": "faq",
+      "variant": "acordeao",
+      "data": {
+        "titulo": "Dúvidas frequentes",
+        "itens": [
+          {
+            "p": "Farmacêutico pode fazer harmonização?",
+            "r": "Pode. A atuação do farmacêutico em saúde estética é regulamentada pelo Conselho Federal de Farmácia desde 2013. A Dra. Mariane é inscrita no CRF-MG sob o número 37479."
+          },
+          {
+            "p": "Vou ficar com cara de procedimento?",
+            "r": "Esse é o critério que guia a indicação. Quantidade, ponto de aplicação e ordem são escolhidos para preservar seus traços: a ideia é que reparem que você está bem, não no que foi feito."
+          },
+          {
+            "p": "A harmonização glútea envolve cirurgia?",
+            "r": "Não. É feita com aplicações no consultório, sem corte. O que é usado e quantas sessões são necessárias depende do seu corpo e é definido na avaliação."
+          },
+          {
+            "p": "Posso voltar à rotina no mesmo dia?",
+            "r": "Na maioria dos procedimentos, sim. Pode haver inchaço ou pequenos roxos nos primeiros dias, o que é esperado e passa. As orientações do seu caso são dadas na consulta."
+          },
+          {
+            "p": "Quanto tempo dura o resultado?",
+            "r": "Varia conforme o procedimento e o organismo de cada pessoa. A previsão para o seu caso, e quando faz sentido voltar, sai na avaliação."
+          }
+        ]
+      }
+    },
+    {
+      "id": "unidades",
+      "variant": "unica",
+      "data": {
+        "titulo": "Onde atende"
+      }
+    },
+    {
+      "id": "cta-final",
+      "variant": "bloco-cheio",
+      "data": {
+        "h2": "Comece pela avaliação",
+        "lead": "Conte pelo WhatsApp o que você quer mudar e o que quer manter. O resto a gente conversa pessoalmente.",
+        "cta": "Conversar no WhatsApp"
+      }
+    },
+    {
+      "id": "footer",
+      "variant": "completo",
+      "data": {
+        "links": [
+          {
+            "texto": "Instagram",
+            "href": "https://www.instagram.com/dramarianealves/"
+          },
+          {
+            "texto": "Vitta Glow",
+            "href": "https://www.instagram.com/vittaglow.clinic/"
+          },
+          {
+            "texto": "WhatsApp",
+            "href": "https://wa.me/5534998000066"
+          }
+        ],
+        "aviso": "Resultados variam de pessoa para pessoa e dependem de avaliação individual. O conteúdo desta página é informativo e não substitui consulta."
+      }
+    }
+  ]
+}
